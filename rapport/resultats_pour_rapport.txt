@@ -1,0 +1,41 @@
+================================================================================
+RÉSULTATS DU PROJET DE FIN D'ÉTUDES
+Segmentation Clientèle par le Modèle Clustering
+================================================================================
+
+1. STATISTIQUES GÉNÉRALES
+----------------------------------------
+Nombre total de clients : 1500
+Nombre de clusters : 4
+
+2. RÉPARTITION DES CLUSTERS
+----------------------------------------
+Cluster 0 : 403 clients (26.9%)
+Cluster 1 : 364 clients (24.3%)
+Cluster 2 : 368 clients (24.5%)
+Cluster 3 : 365 clients (24.3%)
+
+3. PROFILS DES CLUSTERS
+----------------------------------------
+   Cluster                    Nom  Effectif  Âge moyen  Revenu moyen  Score moyen  Ratio online
+0        0  ÉCONOMES PRAGMATIQUES       403      34.59        101.92        23.82          0.48
+1        1          ACHETEURS WEB       364      56.70         42.58        39.98          0.44
+2        2      VIP TRADITIONNELS       368      53.07        115.78        68.58          0.54
+3        3   FIDÈLES DE PROXIMITÉ       365      31.48         58.38        71.53          0.51
+
+4. PERFORMANCES DES MODÈLES
+----------------------------------------
+                     Modèle  Performance Unité
+0  Régression Linéaire (R²)          0.0    R²
+1     Régression Logistique         77.0     %
+2             Random Forest         98.0     %
+
+5. FICHIERS GÉNÉRÉS
+----------------------------------------
+  • figures/ : 13 figures PNG
+  • tableaux/ : 8 tableaux CSV
+  • listes_marketing/ : 4 listes clients
+
+================================================================================
+FIN DU RAPPORT
+================================================================================

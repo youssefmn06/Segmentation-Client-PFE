@@ -1,0 +1,5 @@
+Cluster,Nom,Profil,Stratégie,Actions
+0,ÉCONOMES PRAGMATIQUES,"Revenu élevé (101.92k$), faible score (23.82), non fidèles, Femmes",Conversion,"Coupons de réduction, offres ""2 achetés = 1 offert"", emailings promotionnels"
+1,ACHETEURS WEB,"Ratio online élevé (0.44), Hommes, fidélité 52%",Campagnes digitales,"Publicité ciblée (Instagram/TikTok), retargeting, notifications push"
+2,VIP TRADITIONNELS,"Score élevé (68.58), revenu moyen (115.78k$), fidélité 52%, Hommes",Rétention,"Ventes privées, accès VIP, service conciergerie"
+3,FIDÈLES DE PROXIMITÉ,"Fidélité maximale (54%), ratio online modéré (0.51), Femmes",Parrainage,"Programme de parrainage, événements en boutique"

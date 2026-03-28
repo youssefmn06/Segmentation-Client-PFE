@@ -1,0 +1,11 @@
+Variable,Type,Description
+ClientID,Identifiant,Numéro unique du client
+Age,Numérique,Âge du client
+Gender,Catégorielle,Sexe (Male/Female)
+Annual_Income_k$,Numérique,Revenu annuel en milliers de dollars
+Spending_Score,Numérique,Score de dépense (1-100)
+Visit_Frequency_per_Month,Numérique,Fréquence de visites mensuelles
+Time_Spent_per_Visit_min,Numérique,Temps passé par visite (minutes)
+Online_Shopping_Ratio,Numérique,Ratio d'achats en ligne (0-1)
+Loyalty_Program,Catégorielle,Appartenance au programme de fidélité (Yes/No)
+Days_Since_Last_Visit,Numérique,Jours depuis la dernière visite
